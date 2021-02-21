@@ -1,8 +1,4 @@
-Time_Stamp: 2021-02-20 08:15:29 | label: Client Connected! | level:  info | Message: jjfkdjkfjkdjfkd | IP Address: 127.0.0.1
-Time_Stamp: 2021-02-20 08:15:29 | label: Error occurred! | level:  error | Message: Error: read ECONNRESET | IP Address: 127.0.0.1
-Time_Stamp: 2021-02-20 08:15:29 | label: Client disconnected! | level:  info | Message: true | IP Address: 127.0.0.1
-Time_Stamp: 2021-02-20 12:54:35 | label: Client Connected! | level:  info | Message: jjfkdjkfjkdjfkd | IP Address: 127.0.0.1
-Time_Stamp: 2021-02-20 12:54:35 | label: Error occurred! | level:  error | Message: Error: read ECONNRESET | IP Address: 127.0.0.1
-Time_Stamp: 2021-02-20 12:54:35 | label: Client disconnected! | level:  info | Message: true | IP Address: 127.0.0.1
-Time_Stamp: 2021-02-20 21:33:41 | label: Error occurred! | level:  error | Message: Error: read ECONNRESET | IP Address: undefined
-Time_Stamp: 2021-02-20 21:33:41 | label: Client disconnected! | level:  info | Message: true | IP Address: undefined
+Time_Stamp: 2021-02-21 18:25:09 | level: info  | label:  New Client Connected! | Message: Connected | IP Address: 127.0.0.1
+Time_Stamp: 2021-02-21 18:25:09 | level: error  | label:  Error occurred! | Message: read ECONNRESET | IP Address: 127.0.0.1
+Time_Stamp: 2021-02-21 18:25:09 | level: warn  | label:  Client disconnected! | Message: true | IP Address: 127.0.0.1
+Time_Stamp: 2021-02-21 18:25:09 | level: warn  | label:  Client disconnected! | Message: true | IP Address: 127.0.0.1
